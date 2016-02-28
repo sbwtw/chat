@@ -4,5 +4,9 @@ version = "0.1.0"
 authors = ["石博文 <sbw@sbw.so>"]
 
 [dependencies]
+log = "*"
 env_logger = "*"
 mio = "*"
+clippy = "*"
+conrod = "*"
+piston_window = "*"
